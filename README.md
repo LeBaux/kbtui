@@ -40,6 +40,6 @@ file for emoji completion.
 
 ## Running and getting started
 
-Run the go binary, file usually by typing `~/go/bin/kbtui` in your terminal.
-When you get kbtui up and running, use `/help` to get the list of commands.
-If you get lost, you can always join kbtui channel with `/j kbtui general `
+1. Run the go binary, file usually by typing `~/go/bin/kbtui` in your terminal.
+2. When you get kbtui up and running, use `/help` to get the list of commands.
+3. If you get lost, you can always join kbtui channel with `/j kbtui general `
