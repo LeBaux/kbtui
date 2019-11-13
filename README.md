@@ -24,8 +24,8 @@ For support or suggestions check out the [kbtui team](https://keybase.io/team/kb
 * Track multiple conversations at once
 
 
-### Building and Running
-Easiest Way:
+## Installation (building)
+Easiest way:
 ```
 go get -u github.com/rudi9719/kbtui
 ```
@@ -37,3 +37,9 @@ go run build.go {build, buildBeta... etc}
 ```
 Mage is a requirement for building `kbtui` as it will automatically handle/manage imports as well as mage is used to generate the 
 file for emoji completion.
+
+## Running and getting started
+
+Run the go binary, file usually by typing `~/go/bin/kbtui` in your terminal.
+When you get kbtui up and running, use `/help` to get the list of commands.
+If you get lost, you can always join kbtui channel with `/j kbtui general `
